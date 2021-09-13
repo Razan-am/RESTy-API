@@ -28,7 +28,7 @@
 ### Code Sandbox
 - [Sandbox](https://codesandbox.io/s/currying-frog-9ml5y)
 ### Code Sandbox
-- [GitHub action](https://codesandbox.io/s/currying-frog-9ml5y)
+- [GitHub action](https://github.com/Razan-am/RESTy-API/runs/3588175938?check_suite_focus=true)
 
 ### Running the app
 - npm start
