@@ -5,7 +5,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- https://codesandbox.io/s/currying-frog-9ml5y
+- [Sandbox](https://codesandbox.io/s/currying-frog-9ml5y)
 
 ### Running the app
 - npm start
