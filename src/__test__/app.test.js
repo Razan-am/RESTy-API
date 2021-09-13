@@ -4,7 +4,7 @@ import Form from '../components/form/index';
 import Results from '../components/results/index'
 import '@testing-library/jest-dom/extend-expect';
 
-it('need to run a function on button click', async () => {
+it('Fort the Go button', async () => {
   let callApi = jest.fn();
   render(<Form handleApiCall={callApi} />);
   const button = screen.getByTestId('submitButton');
@@ -12,7 +12,7 @@ it('need to run a function on button click', async () => {
   await waitFor(() => expect(callApi).toHaveBeenCalled());
 });
 
-it('Should render results', () => {
+it('For the results', () => {
   const result = {
     "Headers": {
       "content-type": "string application/json"
@@ -29,11 +29,8 @@ it('Should render results', () => {
       }
     ]
   };
-
   render(<Results data={result} />);
-
   const items = screen.getByTestId('result');
-
   expect(items).toHaveTextContent('fake thing 1');
   expect(items).toHaveTextContent('http://fakethings.com/2');
   expect(items).toHaveTextContent('Headers');
