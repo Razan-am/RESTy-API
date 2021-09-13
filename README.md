@@ -37,4 +37,4 @@
 ![uml](./img/uml.png)
 
 ### Pull request
-[PR](https://github.com/Razan-am/RESTy-API/pull/1)
+[PR](https://github.com/Razan-am/RESTy-API/pull/2)
