@@ -6,7 +6,7 @@ function Form(props){
   
   let [postRequest , setPostRequest] = useState(false);
   let [request , setRequest] = useState('GET');
-  let [api , setApi]= useState('https://pokeapi.co/api/v2/pokemon');
+  let [api , setApi]= useState('');
   let [textArea , settextArea]= useState('');
 
   function handleSubmit (e){
@@ -19,12 +19,13 @@ function Form(props){
   }
   
   function handlePost(e){
-    setPostRequest(!setPostRequest);
     setRequest(e.target.id);
+    setPostRequest(true)
   }
 
   function handleRequest(e){
     setRequest(e.target.id);
+    setPostRequest(false)
   }
 
   function handleApi(e){
@@ -49,7 +50,7 @@ function Form(props){
             <span id="put" onClick={handlePost}>PUT</span>
             <span id="delete" onClick={handleRequest}>DELETE</span>
           </label>
-          {postRequest && <textArea name='body' col='15' rows='20'  onChange='handletextArea' />}
+          {postRequest && <textArea name='body' col='15' rows='20' className='textArea' onChange={handletextArea} />}
         </form>
     </>
   )
