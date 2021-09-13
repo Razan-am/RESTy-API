@@ -5,7 +5,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- https://63gnk6uc34.execute-api.us-east-1.amazonaws.com/people
+- https://codesandbox.io/s/currying-frog-9ml5y
 
 ### Running the app
 - npm start
@@ -14,4 +14,4 @@
 ![uml](./img/uml.png)
 
 ### Pull request
-[PR](https://github.com/Razan-am/serverless-api-/pull/1)
+[PR](https://github.com/Razan-am/RESTy-API/pull/1)
