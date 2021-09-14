@@ -11,6 +11,7 @@ function Form(props){
 
   function handleSubmit (e){
     e.preventDefault();
+    e.target.reset();
     const formData = {
       method: request,
       url: api,
