@@ -49,7 +49,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox](https://codesandbox.io/s/currying-frog-9ml5y)
+- [Sandbox](https://codesandbox.io/s/sad-galileo-gb98i)
 ### GitHub action
 - [GitHub action](https://github.com/Razan-am/RESTy-API/runs/3588175938?check_suite_focus=true)
 
@@ -60,4 +60,4 @@
 ![uml](./img/uml.png)
 
 ### Pull request
-[PR](https://github.com/Razan-am/RESTy-API/pull/3)
+[PR](https://github.com/Razan-am/RESTy-API/pull/4)
