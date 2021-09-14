@@ -38,3 +38,26 @@
 
 ### Pull request
 [PR](https://github.com/Razan-am/RESTy-API/pull/3)
+
+
+---------------------------------------------------------------------------------------
+
+# Lab: Class 28
+
+## RESTy-API(Component Lifecycle / `useEffect()` Hook)
+
+### Author: Razan Alamleh
+
+### Code Sandbox
+- [Sandbox](https://codesandbox.io/s/currying-frog-9ml5y)
+### GitHub action
+- [GitHub action](https://github.com/Razan-am/RESTy-API/runs/3588175938?check_suite_focus=true)
+
+### Running the app
+- npm start
+
+### UML
+![uml](./img/uml.png)
+
+### Pull request
+[PR](https://github.com/Razan-am/RESTy-API/pull/3)
