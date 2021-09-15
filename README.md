@@ -23,7 +23,7 @@
 
 ### Code Sandbox
 - [Sandbox-`useState()` Hook](https://codesandbox.io/s/elated-mendel-1hvmp)
-- 
+
 ### GitHub action
 - [GitHub action](https://github.com/Razan-am/RESTy-API/runs/3588175938?check_suite_focus=true)
 
