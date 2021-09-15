@@ -5,7 +5,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox-Component Based UI](https://codesandbox.io/s/currying-frog-9ml5y)
+- [Sandbox - Component Based UI](https://codesandbox.io/s/currying-frog-9ml5y)
 
 ### Pull request
 [PR](https://github.com/Razan-am/RESTy-API/pull/1)
@@ -22,7 +22,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox-`useState()` Hook](https://codesandbox.io/s/elated-mendel-1hvmp)
+- [Sandbox - useState()Hook](https://codesandbox.io/s/elated-mendel-1hvmp)
 
 ### GitHub action
 - [GitHub action](https://github.com/Razan-am/RESTy-API/runs/3588175938?check_suite_focus=true)
@@ -42,7 +42,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox-Component Lifecycle / `useEffect()` Hook](https://codesandbox.io/s/sad-galileo-gb98i)
+- [Sandbox - Component Lifecycle / useEffect()Hook](https://codesandbox.io/s/sad-galileo-gb98i)
 ### GitHub action
 - [GitHub action](https://github.com/Razan-am/RESTy-API/runs/3598407313?check_suite_focus=true)
 
@@ -62,7 +62,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox](https://codesandbox.io/s/sweet-robinson-f5cso)
+- [Sandbox - Advanced State with Reducers](https://codesandbox.io/s/sweet-robinson-f5cso)
 ### GitHub action
 - [GitHub action](https://github.com/Razan-am/RESTy-API/runs/3610119724?check_suite_focus=true)
 
